@@ -1,0 +1,43 @@
+# Regression-and-Classification-Prediction-Model-Competition
+
+## These are two class projects for SFU STAT452 FALL 2020 
+## Professor: Thomas M. Loughin  http://www.sfu.ca/~tloughin/STATPAGE.html
+## Teaching Assistant: William Ruth https://www.stat.sfu.ca/people/alumni/alumni_profiles/will_ruth.html
+
+## The codebase for these two projects are referenced to the sample codes in the class which created by Professor Tom and TA William
+
+## Project1: Developed a regression method for predicting Y based on X
+
+## Dataset: STAT452-Project1-test-Data2020.csv
+## Contains n observations of 15 explanatory numeric variables (labeled X1–X15) and one response (Y)
+## A test set of explanatory variables without the response variable
+## The properties/column names of data are unknown
+
+## Result: A list of predicted values, in the same order as test set
+
+## Models included: Simple Linear Regression, Multiple Linear Regression, Ridge regression, LASSO, Partial Least Squares,
+##                  Local Polynomial Regression, Generalized Additive Models, Projection Pursuit,Regression Trees, Pruning Regression Trees,
+##                  Random Forest, Generalized Boosted Regression Modeling, Neural nets
+##                  (total:13)
+
+## Grade: Prediction Models: 85.2 (40%), R2 was 85.2% as large as the best 
+##        Report: 80.4 (60%), reported the steps to get the regression model 
+          
+
+## Project2: Developed a classification method for predicting Y based on X
+
+## Dataset: STAT452-Project2-test-Data2020.csv
+## Contains n observations of 16 explanatory categorical variables (labeled X1–X16) and one response (Y)
+## A test set of explanatory variables without the response variable
+## The properties/column names of data are unknown
+
+## Result: A list of predicted values, in the same order as test set
+
+## Models included: K Nearest Neighbour Classifier,Logistic regression, Linear discriminant analysis, Quadratic Discriminant Analysis, 
+##                  Naive Bayes, Classification tree, Random forests, Neural Nets, Support Vector Machines
+##                  (total:9)
+
+## Grade: Prediction Models: 77.7 (40%), R2 was 77.7% as large as the best 
+##        Report: 96 (60%), reported the steps to get the regression model
+
+
