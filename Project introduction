@@ -9,7 +9,7 @@
 ## Project1: Developed a regression method for predicting Y based on X
 
 ## Dataset: STAT452-Project1-test-Data2020.csv
-## Contains n observations of 15 explanatory numeric variables (labeled X1–X15) and one response (Y)
+## Contains n observations of 15 explanatory numeric variables (labeled X1–X15) and one response variable (Y)
 ## A test set of explanatory variables without the response variable
 ## The properties/column names of data are unknown
 
